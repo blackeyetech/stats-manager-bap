@@ -1,5 +1,5 @@
 {
-  "name": "stats-manager-bap",
+  "name": "@besh/stats-manager-bap",
   "description": "Stats manager BAP",
   "main": "stats-manager-bap.js",
   "scripts": {
