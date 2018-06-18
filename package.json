@@ -11,9 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/blackeyetech/stats-manager-bap.git"
   },
-  "keywords": ["besh", "bap", "stats"],
+  "keywords": [
+    "besh",
+    "bap",
+    "stats"
+  ],
   "bugs": {
     "url": "https://github.com/blackeyetech/stats-manager-bap/issues"
   },
-  "homepage": "https://github.com/blackeyetech/stats-manager-bap#readme"
+  "homepage": "https://github.com/blackeyetech/stats-manager-bap#readme",
+  "version": "1.0.0"
 }
